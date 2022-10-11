@@ -1,0 +1,17 @@
+{
+  "name": "electron-app",
+  "ProductName": "Image Resizer",
+  "version": "1.0.0",
+  "description": "My first desktop application using web technologies",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joz-Bruer Quince",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^21.1.0",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
